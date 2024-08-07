@@ -50,19 +50,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBviTX7ylpwEHBtQaxGPXinA0KkD6Ru6ck',
-    appId: '1:15916888109:android:9ee0bc9246fa8fa8f088a4',
-    messagingSenderId: '15916888109',
-    projectId: 'grocery-market-88b7c',
-    storageBucket: 'grocery-market-88b7c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCxfA9cCHTPbziLziwMx65RVO9BEnCRb2k',
-    appId: '1:15916888109:ios:dac1d98f26163130f088a4',
-    messagingSenderId: '15916888109',
-    projectId: 'grocery-market-88b7c',
-    storageBucket: 'grocery-market-88b7c.appspot.com',
-    iosBundleId: 'com.example.marketapp',
   );
 }
